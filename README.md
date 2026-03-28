@@ -5,3 +5,7 @@
 - Dependency Injection (DI)
 - Modular Endpoint Structure
 - Simple In-Memory Data Handling
+
+`ExceptionMiddleware.cs` 
+
+<img src="structure.svg">
